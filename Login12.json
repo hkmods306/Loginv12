@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "🔐 Secure Login 111",
-  "description": "Please login to continue using this app.",
+  "description": "continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://t.me/hitesh125sf",
