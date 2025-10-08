@@ -23,6 +23,12 @@
       "username": "user",
       "password": "pass",
       "expire_date": "2026-06-01"
+    },
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "dpmods",
+      "password": "12345",
+      "expire_date": "2025-11-20"
     }
   ]
 }
