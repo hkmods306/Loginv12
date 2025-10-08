@@ -1,16 +1,16 @@
 {
   "showDialog": true,
-  "title": "🔐 Secure Login 111",
-  "description": "continue using this app.",
+  "title": "🔐 Secure Login",
+  "description": "Please login to continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://t.me/hitesh125sf",
+  "renewUrl": "https://t.me/dp_mods",
   "devices": [
     {
-      "device_id": "441ba50c4a2568ce",
+      "device_id": "591a2a49ce8ca4dc",
       "username": "dpmods",
       "password": "12345",
-      "expire_date": "2025-11-20"
+      "expire_date": "2025-10-20"
     },
     {
       "device_id": "abcdef9876543210",
@@ -23,18 +23,9 @@
       "username": "user",
       "password": "pass",
       "expire_date": "2026-06-01"
-    },
-    {
-      "device_id": "441ba50c4a2a9ety",
-      "username": "dpmods",
-      "password": "12345",
-      "expire_date": "2025-11-20"
-    },
-    {
-      "device_id": "441ba50c4a2a",
-      "username": "Username",
-      "password": "password",
-      "expire_date": "2025-11-20"
+    }
+  ]
+}      "expire_date": "2025-11-20"
     },
     {
       "device_id": "e3bf8f0f83230012",
