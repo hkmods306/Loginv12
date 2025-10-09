@@ -1,9 +1,9 @@
 {
   "showDialog": true,
-  "title": "🔐 Secure Login",
-  "description": "Please login to continue using this app.",
+  "title": "🔐 ID Login",
+  "description": "Only Login Button पर Click करे ।",
   "button": "LOGIN",
-  "toast": "✅ Successfully Logged In!",
+  "toast": "✅ ID Successfully Logged In!",
   "renewUrl": "https://t.me/hitesh125sf",
   "devices": [
     {
