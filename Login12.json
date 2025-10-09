@@ -7,19 +7,19 @@
   "renewUrl": "https://t.me/hitesh125sf",
   "devices": [
     {
-      "device_id": "591a2a49ce8ca4dc",
+      "device_id": "441ba50c4a2a94ce",
       "username": "Username",
       "password": "password",
       "expire_date": "2025-10-20"
     },
     {
-      "device_id": "abcdef9876543210",
+      "device_id": "441ba50c4a2a94ce",
       "username": "Username",
       "password": "password",
       "expire_date": "2026-04-15"
     },
     {
-      "device_id": "testdevice11223344",
+      "device_id": "441ba50c4a2a94ce",
       "username": "Username",
       "password": "password",
       "expire_date": "2026-06-01"
